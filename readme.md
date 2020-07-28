@@ -6,18 +6,18 @@
 
 >Session: Session 7: About Developers Chair(s): Wahab Hamou-Lhadj
 
-[Link Of the paper](https://ginabai.github.io/PaperPreprints/icpc20_VBACodeSearch.pdf "Click it to view")
+[Link Of the paper](https://ginabai.github.io/PaperPreprints/icpc20_VBACodeSearch.pdf)
  # Introduction:
 A graduate computing student has normally taught multiple programming languages as software is also written using these multiple languages.
   If a developer is trying to learn a new programming language then he or she will obviously try to search online to find information regarding the code and examples. But if a CS graduate who is trying to learn a new language he will face difficulty .. A developer has mastered multiple languages if he is learning a new language then his previous experience with other languages can interfere with one that he is learning. When he is searching for a code or a example he will understand how a developer search during his work. From previous searches it is experienced that code search for language learners is difficult than development activities.
   >for example a scenerio is given in which a CS student gets an internship and his manager thought that he is experienced and said to program in VBA which is a programming language developed by microsoft he started searching online his previous experience with java interfered, and question that come in his mind is " Is any other way is there to improve search success? " 
   
-  One methodology involves logging and browser activities . some points are there to improve searching which are as follows :
-  +  use natural language phrases such as 'if statment' rather that shortcuts like 'if'.
-  +  should search for documentaton and examples instead of questions and answers.
-  +  reformulation is quicker after previous query then searching for new query.
-  +  include examples and code when when require new APIs.
-  +  term borrowing was used which give support to learners.
+  One methodology involves logging and browser activities . Some points are there to improve searching which are as follows :
+  +  Use natural language phrases such as 'if statment' rather that shortcuts like 'if'.
+  +  Should search for documentaton and examples instead of questions and answers.
+  +  Reformulation is quicker after previous query then searching for new query.
+  +  Include examples and code when when require new APIs.
+  +  Term borrowing was used which give support to learners.
  As if a learner will search through a code he will get much more experiences from these seacrches and it will help in his upcoming future.
 # Research Methodology:
   We have 3 research questions for this study
@@ -49,7 +49,7 @@ A graduate computing student has normally taught multiple programming languages 
 
  # INTRODUCTION:
   Gender equality is creating much problem for many countries . Here a discussion is about a country finland which has good gender equality almost in every field. But there are some fields in which women face problems and in those areas men are considered dominant For Example fields like engineering and technology. The main purpose of the topic is to focus on the problem of women that the are facing for applying in software engineering due to earlier experiences.
-  Finland could improve when women will take part in technology . The comparision is made between Finland and Europe that UNESCO reports only 22 percent graduate in engineering students are women and 28 percent scientist and engineers are women and in European country like Lithuania it is 58 percent .But what if women herself by her own choice don't apply in technolgy related field even though she is interested but because of past experiences and this will affect their confidence and self efficacy. It is because the history of finland when male were dominant Another reason is in childhood what she has taught and seen whould also have impact on their educational choices.
+  Finland could improve when women will take part in technology . The comparision is made between Finland and Europe that UNESCO reports only 22 percent graduate in engineering students are women and 28 percent scientist and engineers are women and in European country like Lithuania it is 58 percent .But what if women herself by her own choice don't apply in technolgy related fields even though she is interested but because of past experiences and this will affect their confidence and self efficacy. It is because the history of finland when male were dominant Another reason is in childhood what she has taught and seen whould also have impact on their educational choices.
   If more women whould be recruited and appreciated in these fields then the country may move towards success. And the women should not be pressurized by any one to choose what they should do in her future.
 
 # RESEARCH METHODOLOGY:
@@ -81,13 +81,13 @@ If we have to improve or change the situation for women in software engineering 
  [Link of the paper](https://cmustrudel.github.io/papers/msr20tweets.pdf)
 
 # Introduction :
-  As we know social media is most commonly used in today's generation like facebook, Twitter, Instagram, Skype ,LinkedIN itc.but especially twitter has much impact on the lives of software developers as it is used for helping or facilitating people in communication , sharing information and for advertising someone's work. But here the main focus is on how developer use twitter and how they share their work. But when we come to validate this theory especially for impact of twitter on outcome of projects. There is lack of research because open source developer sometimes use multiple platforms So we cross link users on github and Twitter,  and found 70,427 users those which have  accounts on Twitter and github and there were 786 tweets about the work on github.
+  As we know social media is most commonly used in today's generation like facebook, Twitter, Instagram, Skype ,LinkedIN etc.But especially twitter has much impact on the lives of software developers as it is used for helping or facilitating people in communication , sharing information and for advertising someone's work. But here the main focus is on how developer use twitter and how they share their work. But when we come to validate this theory especially for impact of twitter on outcome of projects. There is lack of research because open source developer sometimes use multiple platforms So we cross link users on github and Twitter,  and found 70,427 users those which have  accounts on Twitter and github and there were 786 tweets about the work on github.
 
 # Importance:
 Social media has great impact on person's life and different people have different aim of using social sites most commonly for communication But twitter is most popular with software developers and we recognize developers from other people as the way of using URLs and other features when twitting . When python contributers are tweeting they mostly twitt about community related topics and software related topics. Twitter can help in maintaining relationship among developers and an open source
 project use twitter mostly for advertising the project and to make it popular.
 # Research Methodology:
-We cross link github and twitter accounts on the basis of profiles and emailaddress. If they share same email address in both accounts they would be linked but if some people have multiple emails they won't be linked and if we will search with the help of names it will also not be linked because different people have same names.
+We cross link github and twitter accounts on the basis of profiles and email address. If they share same email address in both accounts they would be linked but if some people have multiple emails they won't be linked and if we will search with the help of names it will also not be linked because different people have same names.
   If we see URL and if it points to twitter account then this pair would be considered. If it points to the nonTwitter then we look for the URL that points to twitteraccount and then consider this pair. In this way 72,688 Github_Twitter accounts pair were found. Then we validate these accounts First we look towards many Github accounts which were linked to only one Twitter account then 70,427 pair remain. The accounts which are exccluded were used by organization.  Then 50 Github-Twitter accounts pair were randomly selected from which 3 were not using accounts, 40 were valid users, 6 belongs to organization, 1 account is used by another user. From these70,427 tweets we see for the URL that points to github.com and 131,217 tweets were there. From result it is seen that github and twitter are related .
 So we characterize the authors of tweets in terms of their role in the mentioned repository when using twitter 6 tweet categories in total are as follows:
 **_Tweets for_**
